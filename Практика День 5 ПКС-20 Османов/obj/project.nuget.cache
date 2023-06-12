@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "j1BSRqUo2WjbsIEncWxdYvwi6nG+OfEd0GvW/rNM/Id6no094VQ+GAaGh24hS0NFB9jZbUEnEfqQMAFMyCuNLQ==",
+  "success": true,
+  "projectFilePath": "E:\\Практика День 5 ПКС-20 Османов\\ConsoleApp33.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\777\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\777\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\777\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\777\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
